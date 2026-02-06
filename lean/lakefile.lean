@@ -9,4 +9,4 @@ lean_lib «OGPBarrier» where
   roots := #[`OGPBarrier]
 
 require mathlib from git
-  "https://github.com/leanprover-community/mathlib4.git"
+  "https://github.com/leanprover-community/mathlib4.git" @ "v4.14.0"
