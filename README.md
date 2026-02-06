@@ -1,4 +1,3 @@
-# lean4-ogp-zk-security
 # Formal Verification of the Overlap Gap Property (OGP) in Lean 4
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Lean Version](https://img.shields.io/badge/Lean-4.0.0-green.svg)
