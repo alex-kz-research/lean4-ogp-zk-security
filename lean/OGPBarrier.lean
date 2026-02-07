@@ -1,5 +1,5 @@
 /-
-  Copyright (c) 2026 Alexander K. Z.
+  Copyright (c) 2026 Alexander
   All rights reserved.
   
   Formal Verification of the Overlap Gap Property (OGP) in Random 3-SAT.
