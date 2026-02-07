@@ -20,4 +20,4 @@ This proof demonstrates a fundamental hardness barrier for random Constraint Sat
 3. Run `lake build` to verify proofs.
 
 ---
-*Author: Alexander K. Z. (Open to research grants for extending this to LWE/Lattice-based crypto).*
+*Author: Alexander (Open to research grants for extending this to LWE/Lattice-based crypto).*
